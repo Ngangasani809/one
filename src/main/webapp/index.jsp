@@ -167,6 +167,7 @@
 <body>
     <header>
         <h1>Nagalakshmi - DevOps Engineer</h1>  
+        <h2>keep learning and get good job</h2>
         <p>Building Automation & Scalable Solutions for Modern Applications</p>
         <nav>
             <a href="#about">About</a>
